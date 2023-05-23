@@ -1,4 +1,4 @@
-/*package _6;
+package _6;
 
 import org.junit.*;
 import org.junit.Test;
@@ -83,5 +83,4 @@ public class CalculatorTest {
     }
 }
 
- */
 
